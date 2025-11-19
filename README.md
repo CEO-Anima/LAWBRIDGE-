@@ -1,12 +1,12 @@
-# SimulJus - Sistema de Prática Jurídica Digital
+# LawBridge - Sistema de Prática Jurídica Digital
 
-**SimulJus — onde a prática jurídica ganha vida.**
+**LawBridge — onde a prática jurídica ganha vida.**
 
 Sistema completo de simulação de processos judiciais para o Núcleo de Prática Jurídica (NPJ), desenvolvido para facilitar o ensino prático do Direito.
 
 ## 📋 Sobre o Projeto
 
-O SimulJus é uma interface simplificada do PJe (Processo Judicial Eletrônico) desenvolvida especificamente para fins educacionais. O sistema permite que professores criem casos judiciais simulados e alunos pratiquem a elaboração de petições e acompanhamento de processos.
+O LawBridge é uma interface simplificada do PJe (Processo Judicial Eletrônico) desenvolvida especificamente para fins educacionais. O sistema permite que professores criem casos judiciais simulados e alunos pratiquem a elaboração de petições e acompanhamento de processos.
 
 ## ✨ Funcionalidades Principais
 
@@ -148,8 +148,7 @@ Este é um projeto educacional desenvolvido para o NPJ. Contribuições são bem
 
 ## 📄 Licença
 
-Este projeto é de uso educacional.
+Este projeto é de uso pessoal.
 
 ---
 
-**Desenvolvido com ❤️ para o Núcleo de Prática Jurídica**
